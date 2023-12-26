@@ -10,7 +10,7 @@ Die rechtsgültige Sprache dieser Lizenz ist Deutsch. Übersetzungen dienen ledi
  4. Ihr Recht zur Nutzung des Produktes erlischt automatisch, wenn eine der Bedingungen dieser Lizenzbedingungen verletzt wird. Beim Erlöschen des Nutzungsrechts sind Sie dazu verpflichtet, das Produkt auf den verwendeten Servern und Datenbanken zu löschen sowie alle Kopien des Produktes, einschließlich der mitgelieferten Dokumentation und etwaigen veränderten und geänderten Versionen des Produktes, zu vernichten.
  5. Der Lizenzgeber ist für Inhalte, die Dritte in einem kostenfrei zur Verfügung gestellten Produkt einstellen, nicht verantwortlich. Insbesondere ist der Lizenzgeber durch die Herausgabe des Produktes weder Anbieter eigener Informationen gemäß § 8 TDG, noch Dienstanbieter fremder Informationen gemäß § 11 TDG.
 
-## Weitergabe
+## Nutzungsrechte
  1. Der Lizenzgeber räumt lizenznehmenden Personen mit der vereinbarten, einmaligen, Vergütung ein nicht ausschließliches, räumlich unbeschränktes Recht zur Nutzung der Software auf Dauer ein.
  2.  Die erworbene Software ist ausschließlich für die im Kunden-Konto angegebene, lizenznehmende Person lizenziert und wird ausschließlich dieser gemäß Abs. 1 überlassen.
  3.  Ein „Exemplar“ der Software berechtigt lizenznehmende Personen zur Nutzung maximal einer (1) Installation der Software gleichzeitig. Die Installation darf zur Lastverteilung auf mehreren Servern gespiegelt werden („Load-Balancing“).
@@ -45,7 +45,7 @@ The legal language of this license is German. Translations are for your convenie
 4. Your right to use the product is subject to compliance with the conditions of these license terms. Failure to comply will result in the automatic termination of your usage rights. Upon termination, you must delete the product from the servers and databases used and destroy all copies of the product, including provided documentation and any modified and altered versions of the product.
 5. The licensor is not responsible for content that third parties upload to a product provided free of charge. In particular, by releasing the product, the licensor is neither a provider of its own information according to § 8 TDG nor a service provider of third-party information according to § 11 TDG.
 
-## Redistribution
+## Usage Rights
 
 1. The licensor grants licensees a non-exclusive, spatially unlimited right to use the software indefinitely upon the agreed, one-time fee.
 2. The acquired software is licensed exclusively to the licensee specified in the customer account and is solely provided to them according to para. 1.
